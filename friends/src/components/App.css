@@ -18,3 +18,17 @@
   font-size: large;
 }
 
+.friendCard {
+  display: flex;
+  flex-direction: column;
+  background: grey;
+  margin: 5%;
+  padding: 5%;
+}
+
+.friend {
+  display: inline-block;
+  background: grey;
+  margin: 5%;
+  padding: 5%;
+}
